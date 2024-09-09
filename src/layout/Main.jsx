@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 const Main = () => {
   return <div>
     <Navbar></Navbar>
-    <div className="h-screen bg-[#fff5f0]">
+    <div className="h-screen bg-[#fff5f0] container mx-auto">
         <Outlet></Outlet>
     </div>
     <Footer></Footer>
