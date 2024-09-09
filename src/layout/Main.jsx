@@ -3,9 +3,9 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
 const Main = () => {
-  return <div>
+  return <div className="font-Raleway">
     <Navbar></Navbar>
-    <div className="h-screen bg-[#fff5f0] container mx-auto">
+    <div className=" bg-[#fff5f0] container mx-auto">
         <Outlet></Outlet>
     </div>
     <Footer></Footer>
