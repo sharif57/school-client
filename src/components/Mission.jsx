@@ -1,11 +1,10 @@
-import { FaGraduationCap } from "react-icons/fa";
 
 const Mission = () => {
     return <div className="px-32 mt-[130px]">
         <div className="w-1/2 mx-auto text-center space-y-4 ">
-            <p className="btn btn-outline text-black font-semibold">Explore More</p>
-            <h1 className="text-5xl  font-bold">Navigate through our Pages</h1>
-            <p>Your gateway to discovering a wealth of valuable information about our kindergarten school, Feel free to explore and learn more about the enriching experiences that await your child at our kindergarten school</p>
+            <p className="btn btn-outline text-black font-semibold">Mission & Visions</p>
+            <h1 className="text-5xl  font-bold">Our Mission & Visions</h1>
+            <p>We are here to provide a nurturing and inclusive environment where young minds can thrive, fostering a love for learning and personal growth.</p>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-10">
