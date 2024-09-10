@@ -2,7 +2,7 @@ import { MdEmail } from "react-icons/md";
 
 /* eslint-disable react/no-unescaped-entities */
 const Team = () => {
-    return <div className="mt-[130px] px-8">
+    return <div className="mt-[130px] px-8 pb-16">
         <div className="w-1/2 mx-auto text-center space-y-4 ">
             <p className="btn btn-outline text-black font-semibold">Our Teachers With Experties</p>
             <h1 className="text-5xl  font-bold">Our Team Members</h1>
@@ -13,7 +13,7 @@ const Team = () => {
             <div className="bg-white p-8  border-2 border-black border-b-8 border-r-8 rounded-lg">
                 <div className="flex items-center justify-between gap-4" >
                     <div className="flex items-center justify-between gap-3 ">
-                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/WGdWyx1/20240502162307521-jpeg-removebg-preview.png" alt="" />
+                        <img className="size-16 border-2 border-black rounded-lg " src="https://i.ibb.co.com/WGdWyx1/20240502162307521-jpeg-removebg-preview.png" alt="" />
                         <h1 className="text-3xl font-semibold">Sharif Mahamud</h1>
                     </div>
                     <MdEmail className="size-14 bg-[#fff5f0] p-3 rounded-lg border-2 border-black"></MdEmail>
@@ -26,7 +26,7 @@ const Team = () => {
             <div className="bg-white p-8  border-2 border-black border-b-8 border-r-8 rounded-lg">
                 <div className="flex items-center justify-between gap-4" >
                     <div className="flex items-center justify-between gap-3 ">
-                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/WGdWyx1/20240502162307521-jpeg-removebg-preview.png" alt="" />
+                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/NxXWxSm/fun-3d-illustration-fun-superhero.jpg" alt="" />
                         <h1 className="text-3xl font-semibold">Lemon Sikder</h1>
                     </div>
                     <MdEmail className="size-14 bg-[#fff5f0] p-3 rounded-lg border-2 border-black"></MdEmail>
@@ -39,7 +39,7 @@ const Team = () => {
             <div className="bg-white p-8  border-2 border-black border-b-8 border-r-8 rounded-lg">
                 <div className="flex items-center justify-between gap-4" >
                     <div className="flex items-center justify-between gap-3 ">
-                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/WGdWyx1/20240502162307521-jpeg-removebg-preview.png" alt="" />
+                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/ZH4dZx2/graffiti-screaming-boy-3.jpg" alt="" />
                         <h1 className="text-3xl font-semibold">Jowel Rana</h1>
                     </div>
                     <MdEmail className="size-14 bg-[#fff5f0] p-3 rounded-lg border-2 border-black"></MdEmail>
@@ -52,7 +52,7 @@ const Team = () => {
             <div className="bg-white p-8  border-2 border-black border-b-8 border-r-8 rounded-lg">
                 <div className="flex items-center justify-between gap-4" >
                     <div className="flex items-center justify-between gap-3 ">
-                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/WGdWyx1/20240502162307521-jpeg-removebg-preview.png" alt="" />
+                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/L9R4Pfg/bohemian-man-with-his-arms-crossed.jpg" alt="" />
                         <h1 className="text-3xl font-semibold">Tarine Akter</h1>
                     </div>
                     <MdEmail className="size-14 bg-[#fff5f0] p-3 rounded-lg border-2 border-black"></MdEmail>
@@ -65,7 +65,7 @@ const Team = () => {
             <div className="bg-white p-8  border-2 border-black border-b-8 border-r-8 rounded-lg">
                 <div className="flex items-center justify-between gap-4" >
                     <div className="flex items-center justify-between gap-3 ">
-                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/WGdWyx1/20240502162307521-jpeg-removebg-preview.png" alt="" />
+                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/thNvxhc/young-bearded-man-with-striped-shirt.jpg" alt="" />
                         <h1 className="text-3xl font-semibold">Ms. Jessica Lee</h1>
                     </div>
                     <MdEmail className="size-14 bg-[#fff5f0] p-3 rounded-lg border-2 border-black"></MdEmail>
@@ -78,7 +78,7 @@ const Team = () => {
             <div className="bg-white p-8  border-2 border-black border-b-8 border-r-8 rounded-lg">
                 <div className="flex items-center justify-between gap-4" >
                     <div className="flex items-center justify-between gap-3 ">
-                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/WGdWyx1/20240502162307521-jpeg-removebg-preview.png" alt="" />
+                        <img className="size-16 border-2 border-black rounded-lg bg-[#fff5f0]" src="https://i.ibb.co.com/HdDyTdx/smiling-female-face-with-grunge-watercolor-effect-1.jpg" alt="" />
                         <h1 className="text-3xl font-semibold">Mr. William Parker</h1>
                     </div>
                     <MdEmail className="size-14 bg-[#fff5f0] p-3 rounded-lg border-2 border-black"></MdEmail>
